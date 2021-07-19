@@ -1,9 +1,5 @@
+
 /*
-
-template 559 Zay Shop
-
-https://template.com/tm-559-zay-shop
-
 ---------------------------------------------
 Table of contents
 ------------------------------------------------
@@ -135,7 +131,7 @@ body, ul, li, p, a, label, input, div {
 .services-icon-wap:hover {background: #2f377d;}
 /* Contact map */
 .leaflet-control a, .leaflet-control { font-size: 10px !important;}
-.form-control { border: 1px solid #fffcfc;}
+.form-control { border: 1px solid #2f377d;}
 /* Footer */
 #tempalte_footer a { color: #dcdde1;}
 #tempalte_footer a:hover { color: #2f377d;}
